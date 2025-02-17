@@ -1,3 +1,30 @@
-.h1 {
-  color: brown;
+div {
+  border-radius: 20px;
+}
+.img {
+  border-radius: 15px;
+}
+p {
+  color: hsl(212, 45%, 89%);
+}
+h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  width: 400px;
+  font-size: xx-large;
+  text-align: center;
+  margin-left: 6rem;
+}
+p {
+  font-size: medium;
+  font-weight: 200px;
+  width: 330px;
+  text-align: center;
+  margin-left: 9rem;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+}
+@media only screen and (max-width: 375px) 
+{
+ body 
 }
